@@ -1,6 +1,10 @@
 # Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing
 This is a Pytorch implementation of Multi-Agent Graph Convolutional Reinforcement Learning (MAGC) for Dynamic Electric Vehicle Charging Pricing as described in the paper [Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing](https://dl.acm.org/doi/abs/10.1145/3534678.3539416).  
 
+<p align="center">
+  <img width="600" height="380.5" src=./figs/magc.png>
+</p>
+
 If you take advantage of the MAGC in your research, please cite the following:
 
 ```
