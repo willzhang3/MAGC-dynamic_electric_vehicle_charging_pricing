@@ -3,7 +3,7 @@ This is a Pytorch implementation of Multi-Agent Graph Convolutional Reinforcemen
 <br>
 <br>
 <p align="center">
-  <img width="750px" src=./figs/csrsdp_pro.png>
+  <img width="600px" src=./figs/csrsdp_pro.png>
 </p>
 <br>
 <br>
