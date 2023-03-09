@@ -3,9 +3,8 @@ This is a Pytorch implementation of Multi-Agent Graph Convolutional Reinforcemen
 <br>
 <br>
 <p align="center">
-  <img width="750px" src=./figs/csrsdp_pro.png> alt="CSRS-DP Framework"
+  <img width="750px" src=./figs/csrsdp_pro.png>
 </p>
-<abbr title="EV">电动车</abbr>指使用电力作为动力源的交通工具。
 <br>
 <br>
 If you take advantage of the MAGC in your research, please cite the following:
