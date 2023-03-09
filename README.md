@@ -4,7 +4,7 @@ This is a Pytorch implementation of Multi-Agent Graph Convolutional Reinforcemen
 <p align="center">
   <img width="650px" src=./figs/csrsdp_pro.png>
 </p>
-<br>
+
 If you take advantage of the MAGC in your research, please cite the following:
 
 ```
